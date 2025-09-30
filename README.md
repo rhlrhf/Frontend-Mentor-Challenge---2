@@ -23,10 +23,6 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./design/Solution-SS.png)
-
 ### Links
 
 - Solution URL: [https://rhlrhf.github.io/Frontend-Mentor-Challenge---2/]
